@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4294
+
+This plugin simply will show the commit history of the current file in the window and allow you to diff this against older commits. It also allows you to diff it against different commits in different branches.
+
+You can find more information at: https://github.com/PAntoine/vimgitlog
+
+Please can you report and problems there, as it is easier to track them in one place.
